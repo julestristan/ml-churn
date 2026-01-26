@@ -10,12 +10,12 @@ Clone the repo from the github link:
 git clone https://github.com/julestristan/ml-churn.git
 ```
 
-Get in the root folder of the repository to continue ( ```cd your/path/.../ml-churn/```)
+Get in the root folder of the project to continue ( ```cd your/path/.../ml-churn/```)
 
 ### b - Using uv to replicate the environment
 
 Install uv ([link here](https://docs.astral.sh/uv/getting-started/installation/)) to make the virtual environment installation seamless.
-Check if uv is installed by typing
+Check if uv is installed by typing:
 
 ```bash
 uv --version
